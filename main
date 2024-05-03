@@ -1,22 +1,18 @@
-
+# Python - Appending An Array:
 
 # - Source code:
 
-class StarbkanArray(
+class StarbkanArray()
     def __init__(self):
-        P_o_rnStars_List = ["", "m", " ", " ", " ",                                               ] # list of P*tstqrs
+        P_o_rnStars_List = ["", "m", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "] # list of P*tstqrs
+        P_'nst@rs_in_2007 = [" ", " ", " ", " ", " ", " ", " ", ]  #  
+
+        print()
 
 
-
-
-
-
-
-
-
-
-
-
+        print()
+        print()
+        print()
 
 
 
