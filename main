@@ -5,13 +5,20 @@
 class StarbkanArray()
     def __init__(self):
     # Lists of Pornstars:
-        P_o_rnStars_List = ["", "m", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", "Miley Meatpondison"] # list of P*tstqrs
-        P_'nst@rs_in_2007 = [" ", " ", " ", " ", " ", " ", " ", ]  #  
+        P_o_rnStars_List = ["", "m", " ", " ", " ", " ", " ", "", "", "", "", " ", "Sophie Dee", " ", "Brandi Love", " ", " ", "Miley Meatpondison"] # list of P*tstqrs
+        P_'nst@rs_in_2007 = [" ", "Nikki Benz", "k", "Sheva Padella", " ", "Brandi Love", " ", ]  #  
 
-        P_'nst@rs_in_2016 = ["", "m", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "]
+        P_'nst@rs_in_2016 = ["", "m", " ", "Lila Lorenz", "Brooke Wylde", "", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "]     
+        P_'nst@rs_in_2016.append("Kylie Moreen")
+        print(P_'nst@rs_in_2016)
+
         P_'nst@rs_in_2017 = ["", "m", " ", " ", " ", " ", " ", " "]
-
+        P_'nst@rs_in_2017.append("
         print()
+
+        P_'nst@rs_in_2023 = ["", "m", "", "Lila Benz", "Brandi Black", "", " ", " ", "", "", "", ""]  # Porstars Debuted in 2023
+
+
         print()
 
 
