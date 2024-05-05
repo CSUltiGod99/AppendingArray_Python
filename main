@@ -4,13 +4,13 @@
 
 class StarbkanArray()
     def __init__(self):
-        P_o_rnStars_List = ["", "m", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "] # list of P*tstqrs
+    # Lists of Pornstars:
+        P_o_rnStars_List = ["", "m", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", "Miley Meatpondison"] # list of P*tstqrs
         P_'nst@rs_in_2007 = [" ", " ", " ", " ", " ", " ", " ", ]  #  
 
-        print()
+        P_'nst@rs_in_2016 = ["", "m", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "]
+        P_'nst@rs_in_2017 = ["", "m", " ", " ", " ", " ", " ", " "]
 
-
-        print()
         print()
         print()
 
