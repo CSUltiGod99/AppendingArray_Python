@@ -12,8 +12,8 @@ class StarbkanArray()
         P_'nst@rs_in_2016.append("Kylie Moreen")
         print(P_'nst@rs_in_2016)
 
-        P_'nst@rs_in_2017 = ["", "Akita Padella", "Alina Lopez", "Violet Myers", " ", "Sara Lun", "Violet Starr", "Lulu Chu"]
-        P_'nst@rs_in_2017.append("Sarah Vandella")
+        P_'nst@rs_in_2017 = ["", "Akita Padella", "Alina Lopez", "Violet Myers", "Dani", "Sara Lun", "Violet Starr", "Lulu Chu"]
+        P_'nst@rs_in_2017.append("Sarah Vandella", "Ella Knox")
         print(P_'nst@rs_in_2017)
 
         P_'nst@rs_in_2023 = ["Asha Lango", "Christie Stars", "Lila Benz", "Brandi Black", "Natasha Pursy", "Penelope Kaye", "Sarah Vandella"]  # Porstars Debuted in 2023
