@@ -16,10 +16,21 @@ class StarbkanArray()
         P_'nst@rs_in_2017.append("Sarah Vandella")
         print(P_'nst@rs_in_2017)
 
-        P_'nst@rs_in_2023 = ["", "m", "Christie Stars", "Lila Benz", "Brandi Black", "", "Penelope Kaye", "Sarah Vandella", "", ""]  # Porstars Debuted in 2023
+        P_'nst@rs_in_2023 = ["Asha Lango", "Christie Stars", "Lila Benz", "Brandi Black", "Natasha Pursy", "Penelope Kaye", "Sarah Vandella"]  # Porstars Debuted in 2023
         P_'nst@rs_in_2023.sort()
-        P_'nst@rs_in_2023.append("Connie Perignon", "Sarah Banks")
+        P_'nst@rs_in_2023.append("Connie Perignon", "Sarah Banks", "Ava Belov", " ", ")
         print(P_'nst@rs_in_2023)
+
+
+
+    # - Make your very 'Own' P3r6st@r:
+        make_your_own_p$rnstqr = ["Asha Lango", "Christie Stars", "Lila Benz", "Brandi Black", "Natasha Pursy", "Penelope Kaye", "Sarah Vandella"     
+
+
+
+
+
+
 
 
 
