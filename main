@@ -5,12 +5,12 @@
 class StarbkanArray()
     def __init__(self):
     # Lists of Pornstars:
-        P_o_rnStars_List = ["", "m", " ", "Christie Mack", "Angelika Black", "Christie Marks", "Lucie Wilde", "", "", "", "", " ", "Sophie Dee", "Moriah Mills", "Brandi Love", "Maserati-XXX", "Miley Meatpondison"] # list of P*tstqrs
-        P_'nst@rs_in_2007 = [" ", "Nikki Benz", "k", "Sheva Padella", " ", "Brandi Love", " ", ]  #  
+        P_o_rnStars_List = ["", "m", " ", "Christie Mack", "Angelika Black", "Christie Marks", "Lucie Wilde", "", "", "Shieva Padella", "", " ", "Sophie Dee", "Moriah Mills", "Brandi Love", "Maserati-XXX", "Miley Meatpondison"] # list of P*tstqrs
+        P_'nst@rs_in_2007 = [" ", "Nikki Benz", "k", "Shieva Padella", " ", "Brandi Love", " ", ]  #  
 
         P_'nst@rs_in_2011 = ["Blache Berry", "Veronica LaVery", "Tiffany Toth", "Nicolette Shea", "Maya More", "New Lucy"]
         print(P_'nst@rs_in_2011)
-        P_'nst@rs_in_2011.append("Alura TNT Jenson", "Brooklyn Chase")
+        P_'nst@rs_in_2011.append("Alura TNT Jenson", "Brooklyn Chase", "Siri")
         print(P_'nst@rs_in_2011)
 
 
@@ -22,9 +22,9 @@ class StarbkanArray()
         P_'nst@rs_in_2017.append("Sarah Vandella", "Ella Knox", "Kleio Valentien")
         print(P_'nst@rs_in_2017)
 
-        P_'nst@rs_in_2023 = ["Asha Lango", "Christie Stars", "Lila Benz", "Brandi Black", "Natasha Pursy", "Penelope Kaye", "Sarah Vandella"]  # Porstars Debuted in 2023
+        P_'nst@rs_in_2023 = ["Asha Lango", "Christie Stars", "Lila Benz", "Brandi Black", "Natasha Pursy", "Penelope Kaye", "Sarah Vandella", " ", "Kelsey Kane", "Renee Rose", "Barbie Feels", ""]  # Porstars Debuted in 2023
         P_'nst@rs_in_2023.sort()
-        P_'nst@rs_in_2023.append("Connie Perignon", "Sarah Banks", "Ava Belov", " ", ")
+        P_'nst@rs_in_2023.append("Connie Perignon", "Sarah Banks", "Ava Belov", " ", "Renee Rose")
         print(P_'nst@rs_in_2023)
 
 
