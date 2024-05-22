@@ -6,9 +6,9 @@ class StarbkanArray()
     def __init__(self):
     # Lists of Pornstars:
         P_o_rnStars_List = ["", "m", " ", "Christie Mack", "Angelika Black", "Christie Marks", "Lucie Wilde", "", "", "Shieva Padella", "", " ", "Sophie Dee", "Moriah Mills", "Brandi Love", "Maserati-XXX", "Miley Meatpondison"] # list of P*tstqrs
-        P_'nst@rs_in_2007 = [" ", "Nikki Benz", "k", "Shieva Padella", " ", "Brandi Love", " ", ]  #  
+        P_'nst@rs_in_2007 = [" ", "Nikki Benz", "k", "Shieva Padella", "Raylene", "Brandi Love", " "]  #  
 
-        P_'nst@rs_in_2011 = ["Blache Berry", "Veronica LaVery", "Tiffany Toth", "Nicolette Shea", "Maya More", "New Lucy"]
+        P_'nst@rs_in_2011 = ["Blache Berry", "Veronica LaVery", "Tiffany Toth", "Nicolette Shea", "Maya More", "New Lucy", "Karlee Steel"]
         print(P_'nst@rs_in_2011)
         P_'nst@rs_in_2011.append("Alura TNT Jenson", "Brooklyn Chase", "Siri")
         print(P_'nst@rs_in_2011)
@@ -28,10 +28,53 @@ class StarbkanArray()
         print(P_'nst@rs_in_2023)
 
 
+    def _P;'nstSrs(self, BodySize):
+
+    # - Skinny:
+        self.BodySize = BodySize()
+
+
+
+
+
+    # - Average:
+
+
+
+
+
+
+    # Curvy:
+
+
+
+
+
+    # Hourglass:
+
+
+
+
+
+
+    # BBW:
+
+
+
+
+
+
+    # SBBW:
+
+
+
+
+
+
+
 
     # - Make your very 'Own' P3r6st@r:
-        make_your_own_p$rnstqr = ["Asha Lango", "Christie Stars", "Lila Benz", "Brandi Black", "Natasha Pursy", "Penelope Kaye", "Sarah Vandella", "Alexa Tran", "Anna Flexy", "Kleio Saut", " ", " ", "Connie Perignon", "Sarah Banks", "Ava Belov"]      
-
+        make_your_own_p$rnstqr = ["Asha Lango", "Christie Stars", "Lila Benz", "Brandi Black", "Natasha Pursy", "Penelope Kaye", "Sarah Vandella", "Alexa Tran", "Anna Flexy", "Kleio Saut", "Nira", "Nikki", "Connie Perignon", "Sarah Banks", "Ava Belov", "Anne", "Karla", "Karlee"]        
 
 
 
