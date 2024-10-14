@@ -27,6 +27,11 @@ class StarbkanArray()
         P_'nst@rs_in_2023.append("Connie Perignon", "Sarah Banks", "Ava Belov", " ", "Renee Rose")
         print(P_'nst@rs_in_2023)
 
+        P--nst@rs_Born_in_2001 = ["Candy Lovie", "Sherry Chance", "Kukki Doll", " ", "Marina Vaylor"]
+        P--nst@rs_Born_in_2001.rand()
+
+
+
 
 
 
