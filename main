@@ -8,7 +8,7 @@ class StarbkanArray()
         P_o_rnStars_List = ["", "m", " ", "Christy Mack", "Angelika Black", "Christy Marks", "Lucie Wilde", "", "", "Shieva Padella", "", " ", "Sophie Dee", "Moriah Mills", "Brandi Love", "Maserati-XXX", "Miley Meatpondison"] # list of P*tstqrs
         P_'nst@rs_in_2007 = [" ", "Nikki Benz", "k", "Shieva Padella", "Raylene", "Brandi Love", " "]  #  
 
-        P_'nst@rs_in_2011 = ["Blache Berry", "Veronica LaVery", "Tiffany Toth", "Nicolette Shea", "Maya More", "New Lucy", "Karlee Steel"]
+        P_'nst@rs_in_2011 = ["Blache Berry", "Veronica LaVery", "Tiffany Toth", "Nicolette Shea", "Blanche Bradburry", "Maya More", "New Lucy", "Karlee Steel"]
         print(P_'nst@rs_in_2011)
         P_'nst@rs_in_2011.append("Alura TNT Jenson", "Brooklyn Chase", "Siri")
         print(P_'nst@rs_in_2011)
@@ -18,8 +18,8 @@ class StarbkanArray()
         P_'nst@rs_in_2016.append("Kylie Moreen")
         print(P_'nst@rs_in_2016)
 
-        P_'nst@rs_in_2017 = ["", "Akita Padella", "Alina Lopez", "Violet Myers", "Dani", "Sara Lun", "Violet Starr", "Lulu Chu"]
-        P_'nst@rs_in_2017.append("Sarah Vandella", "Ella Knox", "Kleio Valentien")
+        P_'nst@rs_in_2017 = ["Alina Fair", "Akita Padella", "Alina Lopez", "Violet Myers", "Dani", "Sara Lun", "Violet Starr", "Lulu Chu"]
+        P_'nst@rs_in_2017.append("Sarah Vandella", "Ella Knox", "Kleio Valentien", "Lana Del Lust", ")
         print(P_'nst@rs_in_2017)
 
         P_'nst@rs_in_2023 = ["Asha Lango", "Christie Stars", "Lila Benz", "Brandi Black", "Natasha Pursy", "Penelope Kaye", "Sarah Vandella", " ", "Kelsey Kane", "Renee Rose", "Barbie Feels", ""]  # Porstars Debuted in 2023
